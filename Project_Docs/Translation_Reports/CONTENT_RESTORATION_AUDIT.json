@@ -1,0 +1,9 @@
+{
+  "total_keys": 20464,
+  "restored_original_full_text": 11662,
+  "by_reason": {
+    "synthetic": 11354,
+    "mixed_broken": 308
+  },
+  "policy": "Where a prior Arabic value was a synthetic placeholder or broken mixed-language string, the complete original English text was restored so no explanation is missing. Existing genuine Arabic translations were preserved."
+}

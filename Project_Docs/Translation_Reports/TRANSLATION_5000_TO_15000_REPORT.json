@@ -1,0 +1,21 @@
+{
+  "previous": 10000,
+  "added": 5000,
+  "total": 15000,
+  "categories": {
+    "trophy": 104,
+    "multiplayer": 25,
+    "location": 560,
+    "inventory": 40,
+    "tracking": 120,
+    "animal": 705,
+    "weapon": 155,
+    "mission": 81,
+    "dialogue": 8,
+    "settings": 46,
+    "progress": 27,
+    "dog": 16,
+    "context_pending": 3113
+  },
+  "context_pending": 3113
+}

@@ -1,0 +1,30 @@
+{
+  "previous": 7000,
+  "added": 3000,
+  "total": 10000,
+  "categories": {
+    "hold_action": 1,
+    "confirm_action": 13,
+    "leave": 7,
+    "follow": 3,
+    "bring": 1,
+    "use": 1,
+    "open": 7,
+    "close": 2,
+    "repair": 1,
+    "short_ui_glossary": 4,
+    "multiplayer": 181,
+    "trophy": 70,
+    "inventory": 83,
+    "location": 139,
+    "settings": 12,
+    "animal": 129,
+    "dialogue": 24,
+    "mission": 44,
+    "weapon": 31,
+    "progress": 59,
+    "tracking": 76,
+    "dog": 56,
+    "concise_fallback": 2056
+  }
+}

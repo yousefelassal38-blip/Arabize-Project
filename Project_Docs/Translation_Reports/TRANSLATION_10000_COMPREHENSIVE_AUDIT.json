@@ -1,0 +1,16 @@
+{
+  "count": 10000,
+  "previous_count": 7000,
+  "added_count": 3000,
+  "unique_keys": 10000,
+  "empty_values": 0,
+  "thai_values": 0,
+  "placeholder_mismatches": 0,
+  "duplicate_translation_groups": 120,
+  "largest_duplicate_group": 2056,
+  "active_files_identical": true,
+  "font_bytes": 164526,
+  "python_files_checked": 14,
+  "coverage_percent": 48.87,
+  "concise_fallback_entries": 2056
+}

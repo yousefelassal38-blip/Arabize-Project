@@ -1,0 +1,10 @@
+{
+  "count": 5000,
+  "mixed_functional_before": 484,
+  "mixed_functional_after": 0,
+  "manual_fixes": 17,
+  "safe_category_rewrites": 467,
+  "duplicate_translation_values": 96,
+  "largest_duplicate_group": 545,
+  "quality_limit": "Repeated category summaries remain placeholders, not detailed translations."
+}

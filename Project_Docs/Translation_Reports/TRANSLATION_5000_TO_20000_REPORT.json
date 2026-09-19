@@ -1,0 +1,24 @@
+{
+  "previous": 15000,
+  "added": 5000,
+  "total": 20000,
+  "coverage_percent": 97.73,
+  "categories": {
+    "title": 293,
+    "general": 3139,
+    "location": 218,
+    "trophy": 19,
+    "question": 292,
+    "animal": 315,
+    "multiplayer": 33,
+    "dialogue": 55,
+    "long_text": 268,
+    "tracking": 212,
+    "progress": 35,
+    "dog": 12,
+    "mission": 24,
+    "settings": 17,
+    "inventory": 7,
+    "weapon": 61
+  }
+}

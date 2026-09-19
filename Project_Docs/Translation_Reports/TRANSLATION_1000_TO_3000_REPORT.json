@@ -1,0 +1,14 @@
+{
+  "previous": 2000,
+  "added": 1000,
+  "total": 3000,
+  "categories": {
+    "investigate": 48,
+    "inspect": 32,
+    "search": 22,
+    "photograph": 125,
+    "photo": 55,
+    "harvest": 653,
+    "spot": 65
+  }
+}

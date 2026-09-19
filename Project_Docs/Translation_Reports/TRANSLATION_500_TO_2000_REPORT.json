@@ -1,0 +1,21 @@
+{
+  "previous": 1500,
+  "added": 500,
+  "total": 2000,
+  "categories": {
+    "travel": 194,
+    "visit": 54,
+    "reach": 34,
+    "go": 33,
+    "find": 74,
+    "locate": 14,
+    "enter": 12,
+    "return": 4,
+    "interact": 5,
+    "activate": 1,
+    "pickup": 33,
+    "collect": 15,
+    "talk": 2,
+    "follow": 25
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "previous": 5000,
+  "added": 2000,
+  "total": 7000,
+  "categories": {
+    "exact_ui": 5,
+    "dialogue_exact": 1,
+    "equipped": 1,
+    "location_summary": 817,
+    "animal_summary": 702,
+    "settings_summary": 63,
+    "dialogue_summary": 109,
+    "mission_summary": 48,
+    "tracking_summary": 61,
+    "weapon_summary": 193
+  }
+}

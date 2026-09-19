@@ -1,0 +1,17 @@
+{
+  "count": 20464,
+  "changes": {
+    "settings_manual": 28,
+    "descriptions": 9,
+    "proper_names_english": 6378,
+    "setting": 28,
+    "location": 960,
+    "weapon": 172,
+    "mission": 74,
+    "animal": 1960,
+    "general": 2570,
+    "long": 1074,
+    "question": 328,
+    "placeholder_repair": 170
+  }
+}

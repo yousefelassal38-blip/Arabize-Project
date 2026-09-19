@@ -1,0 +1,27 @@
+{
+  "count": 15000,
+  "changes": {
+    "manual": 24,
+    "location": 1290,
+    "progress": 119,
+    "mission": 264,
+    "weapon": 768,
+    "general": 5547,
+    "animal": 2135,
+    "tracking": 311,
+    "dog": 67,
+    "settings": 172,
+    "trophy": 155,
+    "long": 296,
+    "inventory": 127,
+    "question": 220,
+    "mixed_cleanup": 1014
+  },
+  "generic_values_before": 14,
+  "mixed_after": 0,
+  "empty_values": 0,
+  "thai_values": 0,
+  "max_translation_chars": 456,
+  "values_over_80_chars": 21,
+  "largest_duplicate_group": 4862
+}

@@ -1,0 +1,16 @@
+{
+  "previous": 20000,
+  "added": 464,
+  "total": 20464,
+  "coverage_percent": 100.0,
+  "categories": {
+    "trophy_lodge": 13,
+    "general": 163,
+    "story": 114,
+    "proper_title": 63,
+    "question": 33,
+    "setting": 5,
+    "exact": 13,
+    "measurement": 60
+  }
+}

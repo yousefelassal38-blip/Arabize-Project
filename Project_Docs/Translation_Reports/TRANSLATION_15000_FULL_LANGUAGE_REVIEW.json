@@ -1,0 +1,28 @@
+{
+  "count": 15000,
+  "reviewed_generic_or_pending": 12539,
+  "changes_by_category": {
+    "dialogue": 2762,
+    "location": 808,
+    "direct_action": 1017,
+    "trophy": 122,
+    "mission": 201,
+    "animal": 1430,
+    "progress": 49,
+    "weapon": 397,
+    "general": 5053,
+    "tracking": 270,
+    "inventory": 95,
+    "settings": 139,
+    "dog": 50,
+    "multiplayer": 94,
+    "question": 45,
+    "long_text": 7,
+    "placeholder_repair": 28
+  },
+  "pending_markers_after": 0,
+  "empty_values": 0,
+  "thai_values": 0,
+  "duplicate_value_groups": 144,
+  "largest_duplicate_group": 5028
+}

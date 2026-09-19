@@ -1,0 +1,14 @@
+{
+  "overrides": {
+    "mainmenu_newgame": "ﺓﺪﻳﺪﺟ ﺔﺒﻌﻟ",
+    "mainmenu_selectreserve": "ﺔﻴﻤﺤﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ",
+    "mainmenu_store_xb1": "ﻲﻓﺎﺿﺈﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﺮﺠﺘﻣ",
+    "mainmenu_continue": "ﺔﻌﺑﺎﺘﻣ",
+    "mainmenu_multiplayer": "ﻲﻋﺎﻤﺟ ﺐﻌﻟ",
+    "mainmenu_settings": "ﺕﺍﺩﺍﺪﻋﺈﻟﺍ",
+    "mainmenu_store_steam": "ﻲﻓﺎﺿﺈﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﺮﺠﺘﻣ",
+    "mainmenu_store_ps4": "ﻲﻓﺎﺿﺈﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﺮﺠﺘﻣ",
+    "mainmenu_credits": "ﻞﻤﻌﻟﺍ ﻖﻳﺮﻓ",
+    "mainmenu_quit": "ﺝﻭﺮﺧ"
+  }
+}

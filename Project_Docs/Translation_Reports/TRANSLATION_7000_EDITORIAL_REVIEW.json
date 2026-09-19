@@ -1,0 +1,11 @@
+{
+  "count": 7000,
+  "direct_glossary_fixes": 50,
+  "values_changed": 13,
+  "functional_english_after": 0,
+  "empty_values": 0,
+  "thai_values": 0,
+  "duplicate_value_groups": 105,
+  "largest_duplicate_group": 1201,
+  "editorial_note": "Many category summaries are still placeholders and require contextual human translation."
+}

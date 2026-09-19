@@ -1,0 +1,26 @@
+{
+  "additional_objectives": 196,
+  "ui_codex_labels": 4,
+  "categories": {
+    "take": 66,
+    "head": 14,
+    "down": 10,
+    "climb": 3,
+    "search": 20,
+    "approach": 3,
+    "bring": 3,
+    "repair": 4,
+    "leave": 10,
+    "shoot": 11,
+    "equip": 1,
+    "unlock": 5,
+    "read": 10,
+    "wait": 4,
+    "kill": 19,
+    "discover": 8,
+    "get": 2,
+    "survey": 2,
+    "interact": 1
+  },
+  "total_new": 200
+}

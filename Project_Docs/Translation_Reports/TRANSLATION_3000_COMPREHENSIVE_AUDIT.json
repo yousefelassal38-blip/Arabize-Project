@@ -1,0 +1,17 @@
+{
+  "count": 3000,
+  "reviewed_new_entries": 1000,
+  "category_rewrites": {
+    "harvest": 653,
+    "inspect": 32,
+    "investigate": 48,
+    "photograph": 125,
+    "spot": 65,
+    "search": 22,
+    "photo": 55
+  },
+  "mixed_generic_before": 899,
+  "mixed_generic_after": 0,
+  "fallback_summaries": 614,
+  "manual_fixes": 9
+}

@@ -1,0 +1,32 @@
+{
+  "translated_in_batch": 1347,
+  "total_keys": 20464,
+  "categories": {
+    "visit": 35,
+    "return": 4,
+    "travel": 101,
+    "open": 3,
+    "pickup": 20,
+    "enter": 9,
+    "investigate": 47,
+    "harvest": 560,
+    "inspect": 30,
+    "retrieve": 13,
+    "collect": 19,
+    "find": 60,
+    "reach": 23,
+    "photo": 149,
+    "go": 33,
+    "locate": 9,
+    "follow": 23,
+    "spot": 51,
+    "use": 23,
+    "place": 12,
+    "deliver": 3,
+    "complete": 65,
+    "examine": 23,
+    "check": 18,
+    "hunt": 14
+  },
+  "note": "Structured mission and objective translation only; proper names stay English to preserve accuracy."
+}

@@ -1,0 +1,23 @@
+{
+  "count": 2000,
+  "settings_fixes": 16,
+  "new_settings_keys": [
+    "WINDOW",
+    "QUALITY PRESET",
+    "Set how the game is displayed.",
+    "BORDERLESS WINDOW",
+    "Controls vertical sync.",
+    "Adjust the camera's field of view.",
+    "Adjusts the screen resolution of the game."
+  ],
+  "removed_to_preserve_count": [
+    "Travel to the top of the Besplodnoye Plateau Northern Lookout Point",
+    "Travel to the Ledyanoy Bay Western Lookout Point at night",
+    "Travel to the Besplodnoye Plateau Northern Lookout Point",
+    "Go to the second site affected by the invasive species",
+    "Travel to the starting point of the tracks in Chopeeka",
+    "Go to the first site affected by the invasive species",
+    "Travel to the lookout point marked on your Huntermate"
+  ],
+  "base_1500_preserved_except_intentional_wording_fixes": true
+}
