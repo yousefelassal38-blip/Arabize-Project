@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "internal_only": true,
+  "games": {
+    "cotw": {
+      "status": "in_progress",
+      "last_stable": "6.8.1",
+      "current_focus": "codex_tutorials",
+      "sections": {
+        "skills": "reviewed",
+        "objectives": "in_progress",
+        "codex_tutorials": "in_progress",
+        "animals": "planned",
+        "reserves": "planned",
+        "weapons": "planned",
+        "story": "planned"
+      }
+    }
+  }
+}

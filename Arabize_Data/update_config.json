@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "manifest_url": "https://github.com/yousefelassal38-blip/Arabize-Project/releases/latest/download/update.json",
+  "channel": "stable",
+  "require_online": true,
+  "timeout_seconds": 15,
+  "max_package_bytes": 536870912
+}

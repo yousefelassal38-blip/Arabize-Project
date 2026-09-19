@@ -23,7 +23,7 @@ def stats(p):
 class App(ctk.CTk):
  def __init__(self):
   super().__init__();self.lang='ar';self.registry=GameRegistry(HERE/'games.json');self.games=self.registry.games;self.game=self.games[0];self.plugin=self.registry.load(self.game);self.path=ctk.StringVar(value=self.game['default_path']);self.status=ctk.StringVar();self.busy=False;self.log_lines=[]
-  self.title('Arabize 6.8.0 Codex Tutorial Continuation');self.geometry('1180x720');self.minsize(1020,680);self.configure(fg_color=C['bg']);self.grid_columnconfigure(0,weight=1);self.grid_rowconfigure(1,weight=1);self.draw()
+  self.title('Arabize 7.1.0 GitHub Online');self.geometry('1180x720');self.minsize(1020,680);self.configure(fg_color=C['bg']);self.grid_columnconfigure(0,weight=1);self.grid_rowconfigure(1,weight=1);self.draw()
  def t(self,k):return T[self.lang][k]
  def draw(self):
   saved=self.path.get();
